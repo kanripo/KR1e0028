@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 崔氏春秋經解
-#+DATE: 2015-09-23 09:39:28
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:13:18.986217
+#+PROPERTY: ID KR1e0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1e0028_WYG_011-1a>¶
 欽定四庫全書¶
 　春秋經解卷十一　　　　宋　崔子方　撰¶
@@ -352,4 +354,3 @@
 　成風宣公之敬嬴是也哀姜莊公之夫人則成風其¶
 　妾也出姜文公之夫人則敬嬴其妾也明矣¶
 冬城漆¶
-

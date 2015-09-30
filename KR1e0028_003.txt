@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 崔氏春秋經解
-#+DATE: 2015-09-23 09:39:28
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:13:18.841190
+#+PROPERTY: ID KR1e0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1e0028_WYG_003-1a>¶
 欽定四庫全書¶
 　春秋經解卷三　　　　　宋　崔子方　撰¶
@@ -735,4 +737,3 @@
 　大夫出尤失之矣然則不以君命之辭言之無他嫌¶
 　與諸侯之專征伐也¶
 狄伐邢¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 崔氏春秋經解
-#+DATE: 2015-09-23 09:39:28
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:13:18.923038
+#+PROPERTY: ID KR1e0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0028_WYG_007-1a>¶
 欽定四庫全書¶
 　春秋經解卷七　　　　　宋　崔子方　撰¶
@@ -348,4 +350,3 @@
 　不稱公孫前見也其地見未入乎國也比至於笙聞¶
 　公之薨畏罪而奔齊然則歸父有惡於新君矣廢命¶
 　逃刑於是乎不臣故曰遂奔齊以惡之¶
-

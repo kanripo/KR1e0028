@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 崔氏春秋經解
-#+DATE: 2015-09-23 09:39:28
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:13:18.935030
+#+PROPERTY: ID KR1e0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0028_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋經解卷八　　　　　宋　崔子方　撰¶
@@ -469,4 +471,3 @@
 十有二月仲孫蔑會晉侯宋公衞侯邾子齊崔杼同盟¶
 于虚朾¶
 丁未葬我君成公¶
-

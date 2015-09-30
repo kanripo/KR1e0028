@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 崔氏春秋經解
-#+DATE: 2015-09-23 09:39:28
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:13:18.906934
+#+PROPERTY: ID KR1e0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0028_WYG_006-1a>¶
 欽定四庫全書¶
 　春秋經解卷六　　　　　宋　崔子方　撰¶
@@ -581,4 +583,3 @@
 <pb:KR1e0028_WYG_006-33a>¶
 季孫行父如齊¶
 莒弑其君庶其¶
-

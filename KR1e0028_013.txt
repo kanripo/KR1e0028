@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 崔氏春秋經解
-#+DATE: 2015-09-23 09:39:28
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:13:19.011289
+#+PROPERTY: ID KR1e0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附録
 <pb:KR1e0028_WYG_013-1a>¶
 欽定四庫全書¶
 　春秋經觧附録　　　　　宋　崔子方　撰¶
@@ -199,4 +201,3 @@
 不甚曰火¶
 隕而有見于下曰雨¶
 盡而有繼為既(原註日有/食之旣)¶
-
